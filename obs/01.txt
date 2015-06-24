@@ -3,7 +3,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}
 
-<font 13px/arial;;#000000;;#ffffff>Ga</font> ya<font 13px/arial;;#000000;;#ffffff></font> da<font 13px/arial;;#000000;;#ffffff></font> farkon<font 13px/arial;;#000000;;#ffffff></font> komi<font 13px/arial;;#000000;;#ffffff></font> ya<font 13px/arial;;#000000;;#ffffff></font> faru<font 13px/arial;;#000000;;#ffffff>. Allah ne</font> ya<font 13px/arial;;#000000;;#ffffff></font> hallice<font 13px/arial;;#000000;;#ffffff></font> duniya<font 13px/arial;;#000000;;#ffffff></font> da<font 13px/arial;;#000000;;#ffffff></font> dukan<font 13px/arial;;#000000;;#ffffff></font> komi<font 13px/arial;;#000000;;#ffffff>a</font> cikin<font 13px/arial;;#000000;;#ffffff></font> kwana<font 13px/arial;;#000000;;#ffffff></font> shida<font 13px/arial;;#000000;;#ffffff>.</font> Bayan<font 13px/arial;;#000000;;#ffffff></font> da<font 13px/arial;;#000000;;#ffffff>Allah</font> ya<font 13px/arial;;#000000;;#ffffff></font> hallici<font 13px/arial;;#000000;;#ffffff></font> duniya<font 13px/arial;;#000000;;#ffffff>,</font> ta<font 13px/arial;;#000000;;#ffffff></font> cika<font 13px/arial;;#000000;;#ffffff></font> da<font 13px/arial;;#000000;;#ffffff></font> duhu<font 13px/arial;;#000000;;#ffffff></font> da<font 13px/arial;;#000000;;#ffffff></font> wofi<font 13px/arial;;#000000;;#ffffff>,</font> amma<font 13px/arial;;#000000;;#ffffff></font> Ruhun<font 13px/arial;;#000000;;#ffffff>Allah</font> yana<font 13px/arial;;#000000;;#ffffff></font> bisan<font 13px/arial;;#000000;;#ffffff></font> ruwaye<font 13px/arial;;#000000;;#ffffff>.</font> 
 
 Ga ya da farkon kome ya faru. Allah ne ya halicce duniya da dukan kome a cikin kwana shida. Bayan da Allah ya halicci duniya, ta cika da duhu da wofi, amma Ruhun Allah yana shawagi bisa ruwaye. 
 
@@ -12,7 +11,7 @@ Ga ya da farkon kome ya faru. Allah ne ya halicce duniya da dukan kome a cikin k
 
 Then God said, "Let there be light!" And there was light. God saw that the light was good and called it "day." He separated it from the darkness, which he called "night." God created the light on the first day of creation.
 
-Allah ya ce, "Bari haske ya kasance!", sai kuwa ya kasance.  Allah ya ga hasken yana da kyau sai ya kira shi yini. Ya raba shi da duhu, wanda ya kira dare. Allah ya halita haske a rana ta fari ta halita.
+Allah ya ce, "Bari haske ya kasance!", sai kuwa ya kasance.  Allah ya ga hasken yana da kyau sai ya kira shi yini. Ya raba shi da duhu, wanda ya kira dare. Allah ya halitta haske a rana ta fari ta halitta.
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
@@ -20,14 +19,14 @@ Allah ya ce, "Bari haske ya kasance!", sai kuwa ya kasance.  Allah ya ga hasken 
 
 On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below.
 
-A rana ta biyu ta halitta, Allah yayi Magana ya halici sama da ƙasa. Yayi sama ta wurin raba ruwayen sama da ruwayen ƙasa.  
+A rana ta biyu ta halitta, Allah yayi Magana ya halicci sama da ƙasa. Yayi sama ta wurin raba ruwayen sama da ruwayen ƙasa.  
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
 
 
 On the third day, God spoke and separated the water from the dry land. He called the dry land "earth," and he called the water "seas." God saw that what he had created was good.
 
-A rana ta uku, Allah yayi Magana sai ya raba ruwaye da bushashiyar ƙasa. Ya kirayi bushashiyar ƙasar, duniya, ruwayen kuma teku. Allah ya gani yana da kyau.
+A rana ta uku, Allah ya yi Magana sai ya raba ruwaye da bushashiyar ƙasa. Ya kirayi bushashiyar ƙasar, duniya, ruwayen kuma teku. Allah ya gani yana da kyau.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
@@ -89,7 +88,7 @@ A tsakiyar gonar, Allah ya shubka irin itace biyu: icce na rai da icce sanin nag
 
 Then God said, "It is not good for man to be alone." But none of the animals could be Adam's helper.
 
-Sai Allah ya ce:" Bai kyautu ba mutun ya kasance shi kaɗai".  Amma ba dabbobin da suke iya zama mataimakan Adamu.
+Sai Allah ya ce: "Bai kyautu ba mutun ya kasance shi kaɗai".  Amma ba dabbobin da suke iya zama mataimakan Adamu.
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
