@@ -1,6 +1,6 @@
 ====== 47. Paul and Silas in Philippi ======
 
-<font 24px/inherit;;inherit;;inherit>47. Bulus da Silas a Filipia</font>
+<font 24px/inherit;;inherit;;inherit>47. Bulus da Silas a Filibi</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?direct&}}
 
