@@ -1,61 +1,39 @@
-====== 33. The Story of the Farmer ======
-
-<font 24px/inherit;;inherit;;inherit>33. Labarin mai shubka</font>
+====== 33. Labarin mai shubka ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
-
-One day, Jesus was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
 
 Wata rana, Yesu yana koyar da babbab taro kusan gefen wani kogi. Mutane dayawa suka zo su saurare shi, sai Yesu ya shiga cikin jirgin ruwa abakin kogin don ya samu wuri isashe ya yi magana da su. Ya zauna a cikin jirgin ruwan, kuma ya koyas da mutanen.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
-Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds."
-
 Yesu ya faɗi wannan labarin:" Wani mai shubka ya tafi waje ya subka iri. Yayin da yake watsa irin da hannunsa, waɗansu suka faɗa a kan hanya, sai tsuntsaye suka zo suka cinye dukan irin.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
-
-"Other seeds fell on rocky ground, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died."
 
 " Waɗansu suka faɗa kan ƙasa mai dutse, babu ƙasa mai nisa. Irin cikin ƙasa mai duwatsu ya tsiro nan da nan, amma jijiyoyin ba su iya zuwa nesa ba cikin ƙasar. Da rana ta fito, kuma wokaci ya yi zafi, subkar ta bushe, kuma ta mutu".
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-"Still other seeds fell among thorn bushes. Those seeds began to grow, but the thorns choked them out. So the plants that grew from the seeds in the thorny ground did not produce any grain."
-
 "Hakanan wasu iri suka faɗa cikin ƙayayuwa. Shubkar ta fara girma, amma ƙayayuwan suka shaƙe su. Sai subkar daga cikin ƙayayuwan ba su iya bada ƴaƴa ba.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
-
-"Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!"
 
 " Wasu iri suka faɗa cikin ƙasa mai kyau. Waɗannan suka fito, kuma suka bada ƴaƴa kashi 30, 60 har ma 100 hiye da waɗanda aka shubka. Bari mai ji, ya ji!"
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
-This story confused the disciples. So Jesus explained, "The seed is the word of God. The path is a person who hears God's word, but does not understand it, and the devil takes the word away from him."
-
 Wannan labari ya ruɗa almajiran. Sai Yesu ya bayana:" Irin maganar Allah ce. Hanyar mutum ne da ya ji maganar Allah, amma bai gane ta ba, kuma sai shaiɗan ya ɗauke mashi ita".
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
-
-"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or persecution, he falls away."
 
 " Ƙasar mai dutsi mutum ne wanda ya ji maganar Allah, kuma ya amince da ita da murna. Amma da tsanani da ƙunci suka sa ya faɗi".
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-"The thorny ground is a person who hears God's word, but as time passes, the cares, riches, and pleasures of life choke out his love for God. As a result, the teaching he heard does not produce fruit."
-
 " Kasa mai ƙayayuwa mutum ne wanda ya ji maganar Allah, amma da lokaci yake wucewa, taraddadin duniya da jarabar dukiya suka fitar da ƙaunar Allah daga zuciyarsa. Sai koyaswar bata anfana me kome ba.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-"But the good soil is a person who hears the word of God, believes it, and produces fruit."
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
-
-//" Amma ƙasa mai kyau mutum ne wanda ya ji maganar Allah, ya gaskanta, kuma ya bada ƴaƴa".//
+" Amma ƙasa mai kyau mutum ne wanda ya ji maganar Allah, ya gaskanta, kuma ya bada ƴaƴa".
 
 //Labarin LMT daga Matiyu 13:1-8, 18-23; Markus 4:1-8, 13-20; Luka 8:4-15//
