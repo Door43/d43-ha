@@ -2,11 +2,11 @@
 
 Zaɓi harshe: Zaɓi harshe
 
-Surori:  Surori
+Surori: Surori
 
 Harsuna: Harsuna
 
-Sura mai zuwa:  Sura mai zuwa
+Sura mai zuwa: Sura mai zuwa
 
 OK-Haka: OK-Haka
 
@@ -14,8 +14,8 @@ Soke: Soke
 
 Ajje nan: Ajje nan
 
-Ajje wannan layi domina amfani da shi daga baya
+Ajje wannan layi:  Ajje wannan layi domina amfani da shi daga baya
 
-Remove locally: Remove Locally
+Fitar da nan: Fitar da nan
 
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+Fitar da wannan layi:  Fitar da wannan harshe daga ajiya na waje.   Ana bukata haɗin internet in an so gani shi cikin lokaci mai zuwa.
