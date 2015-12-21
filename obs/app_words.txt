@@ -1,31 +1,21 @@
-//Translation for the unfoldingWord mobile app interface // 
+//Translation for the unfoldingWord mobile app interface //
 
+Zaɓi harshe: Zaɓi harshe
 
-Select a language: Select a Language
+Surori:  Surori
 
+Harsuna: Harsuna
 
-Chapters: Chapters
+Sura mai zuwa:  Sura mai zuwa
 
+OK-Haka: OK-Haka
 
-Languages: Languages
+Soke: Soke
 
+Ajje nan: Ajje nan
 
-Next chapter: Next Chapter
-
-
-OK: OK
-
-
-Cancel: Cancel
-
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
+Ajje wannan layi domina amfani da shi daga baya
 
 Remove locally: Remove Locally
-
 
 Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
