@@ -1,21 +1,21 @@
 //Translation for the unfoldingWord mobile app interface //
 
-Zaɓi harshe: Zaɓi harshe
+Select a language: Zaɓi harshe
 
-Surori: Surori
+Chapters: Surori
 
-Harsuna: Harsuna
+Languages: Harsuna
 
-Sura mai zuwa: Sura mai zuwa
+Next chapter: Sura mai zuwa
 
-OK-Haka: OK-Haka
+OK: OK-Haka
 
-Soke: Soke
+Cancel: Soke
 
-Ajje nan: Ajje nan
+Save locally: Ajje nan
 
-Ajje wannan layi:  Ajje wannan layi domina amfani da shi daga baya
+Save this string:  Ajje wannan layi domina amfani da shi daga baya
 
-Fitar da nan: Fitar da nan
+Remove locally: Fitar da nan
 
-Fitar da wannan layi:  Fitar da wannan harshe daga ajiya na waje.   Ana bukata haɗin internet in an so gani shi cikin lokaci mai zuwa.
+Remove this string:  Fitar da wannan harshe daga ajiya na waje.   Ana bukata haɗin internet in an so gani shi cikin lokaci mai zuwa.
