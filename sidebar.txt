@@ -1,20 +1,56 @@
+---
 
-----
-~~NOCACHE~~
-**Door43**
+**Door43 **
 
-  * [[ha:home|Door43 (ha)]]
-  * [[en:license|License]]
+   * [[:ha:home|Home (Hausa)]]
+
+**Help**
+
+  * [[:ha:ta|translationAcademy]]
+  * [[:ha:get-started|How to Get Started]]
+  * [[:ha:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[ha:obs|Open Bible Stories (ha)]]
+  *  [[:ha:obs|Open Bible Stories]]
+      * [[ha:obs:notes|translationNotes]]
+      * [[ha:obs:notes:questions:home|translationQuestions]]
+      * [[ha:obe:home|translationWords]]
+  *  [[ha:bible:intro|Bible]]
+      * [[ha:ulb:ep:home|Unlocked Literal Bible]]
+      * [[ha:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[ha:bible:notes:home|translationNotes]]
+      * [[ha:bible:questions:comprehension:home|translationQuestions]]
+      * [[ha:obe:home|translationWords]]
+  * [[ha:lexicon|Open Bible Lexicon]]
+  *  [[ha:library|Open Christian Library]]
+      * [[ha:pet|Plain English Translation]]
+      * [[ha:library:t4t:home|Translation for Translators]]
+  * [[ha:ta|translationAcademy]]
+      * [[ha:ta:vol1:intro:toc_intro|Introduction]]
+      * [[ha:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[ha:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[ha:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[ha:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+**About Door43**
+
+  * [[ha:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[ha:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[ha:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[ha:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-ha|d43-ha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ha/archive/master.zip|d43-ha.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-ha|d43-ha repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-en/archive/master.zip|d43-en.zip]]
 
 **Recent Changes**
+
 {{changes>ns = ha}}
 
 **Language Information**
