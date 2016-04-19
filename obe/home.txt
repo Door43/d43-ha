@@ -1,12 +1,12 @@
-====== Complete List of Important Terms ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+====== Complete List of translationWords - Hausa ======
 
-  * [[:ha:obe:kt:home|Key Terms]]
-  * [[:ha:obe:other:home|Other Terms]]
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
+
+  * [[:ha:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ha:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
 
 <nspages ha:obe -r -title -exclude:home -textPages="">
-
